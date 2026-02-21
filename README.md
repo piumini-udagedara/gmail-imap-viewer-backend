@@ -182,12 +182,6 @@ To remove limitations:
 /db/dump.sql
 ```
 
-## 📊 Database Schema
-
-```Database dump file
-/db/dump.sql
-```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
